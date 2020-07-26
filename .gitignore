@@ -32,3 +32,6 @@ yarn-error.log*
 # sw stuff
 public/sw.js
 pubic/workbox-*.js
+
+# storybook
+storybook-static
